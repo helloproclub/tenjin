@@ -29,5 +29,6 @@ you may mention these people to your issues if you have any question based on th
 - **[Ridho](https://github.com/putrash)** Android, Java, Kotlin  
 - **[Eko](https://github.com/ehardi19)** Back End, Golang, Typescript  
 - **[Yasri](https://github.com/Albatrous)** Back End, Chat bot, Python  
+- **[Adzkar](https://github.com/adzkar)** Front End, Javascript, PHP
 
 ## Good Luck and Happy Hacking :)
