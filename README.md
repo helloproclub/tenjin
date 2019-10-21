@@ -20,4 +20,14 @@ Please include a documentation of your project atleast in form of a readme file 
 ## Further Question
 If you have any question regarding the submission you are welcome to ask in Proclub Teknofest OpenChat (The Teknofest Group) or you could just tag [me](https://github.com/Blinfoldking) in your submission issue
 
+## Mentors
+you may mention these people to your issues if you have any question based on their area of expertise:  
+- **[Wisnu](https://github.com/wisn)** Front End, Back End, DevOps, Javascript, Golang, Ruby, PHP, Mint, Crystal
+- **[Danu](github.com/blinfoldking)** Front End, Back End, Game Dev, iOS, Elixir, Rust, Golang, Ruby, Javascript, Swift 
+- **[Jeremy](https://github.com/jeremylombogia)** Back End, Golang, Ruby, PHP, Javascript
+- **[Vayu](https://github.com/vayupranaditya)** Back End, Python, PHP, Javascript
+- **[Ridho](https://github.com/putrash)** Android, Java, Kotlin  
+- **[Eko](https://github.com/ehardi19)** Back End, Golang, Typescript  
+- **[Yasri](https://github.com/Albatrous)** Back End, Chat bot, Python  
+
 ## Good Luck and Happy Hacking :)
