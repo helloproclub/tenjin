@@ -23,7 +23,7 @@ If you have any question regarding the submission you are welcome to ask in Proc
 ## Mentors
 you may mention these people to your issues if you have any question based on their area of expertise:  
 - **[Wisnu](https://github.com/wisn)** Front End, Back End, DevOps, Javascript, Golang, Ruby, PHP, Mint, Crystal
-- **[Danu](https://github.com/blinfoldking)** Front End, Back End, Game Dev, iOS, Elixir, Rust, Golang, Ruby, Javascript, Swift 
+- **[Danu](https://github.com/blinfoldking)** Front End, Back End, Game Dev, iOS, Elixir, Rust, Golang, Ruby, Javascript, Swift, C# 
 - **[Jeremy](https://github.com/jeremylombogia)** Back End, Golang, Ruby, PHP, Javascript
 - **[Vayu](https://github.com/vayupranaditya)** Back End, Python, PHP, Javascript
 - **[Ridho](https://github.com/putrash)** Android, Java, Kotlin  
